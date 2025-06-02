@@ -2,7 +2,7 @@
 Library    SeleniumLibrary
 
 *** Variables ***
-${LOGIN_PAGE}         C:\\Users\\pedro\\Downloads\\loginpage-main\\index.html
+${LOGIN_PAGE}         https://localhost:8000
 ${BROWSER}            chrome
 ${VALID_USER}         admin
 ${VALID_PASSWORD}     123456
